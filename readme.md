@@ -2,6 +2,8 @@
 
 Manuscript Forge is a static, browser-only website that converts manuscripts into EPUB files. It supports Markdown, plain text, DOCX, and optional custom cover artwork.
 
+Website: https://angzeli.github.io/manuscript_forge/
+
 ## Features
 
 - Convert `.md`, `.markdown`, `.txt`, and `.docx` files to `.epub`.
