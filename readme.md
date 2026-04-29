@@ -4,7 +4,7 @@ Manuscript Forge is a static, browser-only website that converts manuscripts int
 
 Website: https://angzeli.github.io/manuscript_forge/
 
-## Features
+## ✨ Features
 
 - Convert `.md`, `.markdown`, `.txt`, and `.docx` files to `.epub`.
 - Choose a custom cover from JPG, PNG, WebP, GIF, or PDF.
@@ -13,7 +13,7 @@ Website: https://angzeli.github.io/manuscript_forge/
 - Runs entirely in the browser, so files are not uploaded to a server.
 - Works as a static GitHub Pages site.
 
-## Usage
+## 🚀 Usage
 
 1. Open `index.html` in a browser.
 2. Choose or drag in a manuscript file.
@@ -21,9 +21,9 @@ Website: https://angzeli.github.io/manuscript_forge/
 4. Fill in the title, author, and language fields.
 5. Click **Convert to EPUB**.
 
-## GitHub Pages Deployment
+## 📦 Browser Libraries
 
-The site uses CDN-hosted browser libraries:
+The page loads these libraries from CDNs:
 
 - JSZip for EPUB packaging.
 - Marked for Markdown parsing.
@@ -32,10 +32,10 @@ The site uses CDN-hosted browser libraries:
 
 Because these libraries are loaded from CDNs, users need an internet connection when opening the page.
 
-## Privacy
+## 🔒 Privacy
 
 All conversion work happens locally in the visitor's browser. Manuscript files and cover files are not sent to a backend server by this project.
 
-## Author
+## 👋 Author
 
 Made by Angze "Squiddy" Li.
