@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# JetBrains / PyCharm / WebStorm project files
+.idea/
+
+# Generated EPUB files
+*.epub
+
+# Local test inputs and exports
+*.docx
+*.pdf
+*.md~
+*.txt~
+
+# Dependency folders, in case the project is expanded later
+node_modules/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
